@@ -1,0 +1,4 @@
+include LICENSE requirements.txt VERSION README.md .travis.yml
+recursive-include newslynx_sc_rss *.yaml 
+recusive-include tests *
+global-exclude *.pyc .DS_Store

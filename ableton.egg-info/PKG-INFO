@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: ableton
+Version: 0.0.1
+Summary: Create and Manage Ableton files in Python.
+Home-page: http://github.com/abelsonlive/ableton
+Author: Brian Abelson
+Author-email: brianabelson@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python

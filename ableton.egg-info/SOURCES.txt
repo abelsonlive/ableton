@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+ableton/__init__.py
+ableton.egg-info/PKG-INFO
+ableton.egg-info/SOURCES.txt
+ableton.egg-info/dependency_links.txt
+ableton.egg-info/namespace_packages.txt
+ableton.egg-info/not-zip-safe
+ableton.egg-info/top_level.txt
